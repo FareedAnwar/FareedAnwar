@@ -319,8 +319,4 @@ Arabic legal question-answering system over PDF documents across multiple legal 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" />
 
 </div>
-'''
 
-path = Path('/mnt/data/README_impressive_ai_profile.md')
-path.write_text(readme, encoding='utf-8')
-path.as_posix()
