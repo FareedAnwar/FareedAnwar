@@ -47,75 +47,103 @@ Currently, I am working on advanced AI systems involving:
 - AI-powered search systems
 
 ---
+## 🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack
-
-### Programming & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite" />
-</p>
-
-- Python
-- SQL
-- PostgreSQL
-- SQLAlchemy
-- SQL Server
-
-### AI / Machine Learning / Deep Learning
+### Programming Languages & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
 </p>
 
-- PyTorch
-- TensorFlow
-- Hugging Face
-- Scikit-learn
-- OpenCV
-- CNNs
-- RNNs
-- Transformers
-- Vision Transformers
-- U-Net
-- LoRA Fine-tuning
-- Model Evaluation
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
 
-### LLM Engineering & RAG
+---
 
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Semantic Search
-- RAG
-- Agentic RAG
-- Hybrid Retrieval
-- Semantic Caching
-- Vector Databases:
-  - Qdrant
-  - Pinecone
-  - ChromaDB
-  - pgvector
-- Knowledge Graphs:
-  - Neo4j
+### Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNNs-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNNs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ViT-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/U--Net-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Attention%20Mechanisms-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-228B22?style=for-the-badge" />
+</p>
+
+---
+
+### NLP & LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Language%20Modeling-2E86C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tokenization-117A65?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-884EA0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-D35400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20RAG-8E44AD?style=for-the-badge" />
+</p>
+
+---
+
+### Vector Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+</p>
+
+---
 
 ### MLOps & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,fastapi" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
 </p>
 
-- FastAPI
-- Docker
-- Git & GitHub
-- CI/CD
-- MLflow
-- DVC
-- Streamlit
-- Prometheus
-- Grafana
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
 ---
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2E4053?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
 
 ## 💼 Experience
 
