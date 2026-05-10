@@ -1,5 +1,5 @@
 
-readme = r'''<div align="center">
+<div align="center">
 
 <!-- AI Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Fareed%20Ali%20Anwar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%7C%20NLP%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=58&descSize=16" />
