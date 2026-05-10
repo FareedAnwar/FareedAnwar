@@ -1,306 +1,327 @@
-<h1 align="center">Hi 👋, I'm Fareed Ali Anwar</h1>
+from pathlib import Path
 
-<h3 align="center">
-Artificial Intelligence Engineer | NLP Engineer | RAG & LLM Systems Developer
-</h3>
+readme = r'''<div align="center">
 
-<p align="center">
-  <a href="mailto:anwrfryd8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anwrfryd8%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/fareed-ali-a2457a287">
-    <img src="https://img.shields.io/badge/LinkedIn-Fareed%20Ali-blue?style=flat-square&logo=linkedin" />
+<!-- AI Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Fareed%20Ali%20Anwar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%7C%20NLP%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=58&descSize=16" />
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+understand+language;Designing+RAG+%26+Agentic+AI+pipelines;Working+with+Arabic+NLP%2C+LLMs%2C+and+Semantic+Search;Turning+documents%2C+data%2C+and+knowledge+into+answers" />
+
+<br/>
+
+<a href="mailto:anwrfryd8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anwrfryd8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fareed-ali-a2457a287">
+  <img src="https://img.shields.io/badge/LinkedIn-Fareed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<table>
+<tr>
+<td width="65%">
 
 I am an **Artificial Intelligence Engineer** with a strong Computer Science background, specializing in **Natural Language Processing, Computer Vision, LLMs, and Agentic RAG systems**.
 
 I focus on building end-to-end AI solutions that combine **semantic search, vector databases, knowledge graphs, LLMs, and production-ready APIs** to solve real-world problems.
 
-Currently, I am working on advanced AI systems involving:
+- 🧠 Interested in **LLMs, NLP, Arabic NLP, RAG, Agentic AI, and Computer Vision**
+- 🔎 Building systems around **semantic search, retrieval, and grounded answers**
+- ⚙️ Working with **FastAPI, Docker, vector databases, and AI deployment tools**
+- 📍 Based in **Cairo, Egypt**
 
-- Retrieval-Augmented Generation
-- Agentic AI workflows
-- Arabic NLP
-- Medical and legal AI assistants
-- Semantic search engines
-- LLM-based database chatbots
-- Production-ready AI APIs
+</td>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 AI Focus Areas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP%20%26%20Arabic%20NLP-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Search-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps%20%26%20Deployment-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fine--Tuning%20Transformers-DB2777?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🧠 Main AI Interests
-
-- Large Language Models
-- NLP & Arabic NLP
-- Retrieval-Augmented Generation
-- Agentic RAG
-- Knowledge Graphs
-- Vector Databases
-- Computer Vision
-- MLOps & AI Deployment
-- Fine-tuning Transformers
-- AI-powered search systems
-
----
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages & Databases
+### 👨‍💻 Programming Languages & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,postgresql" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+
+</div>
+
+### 🤖 Machine Learning & Deep Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CNNs-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RNNs-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ViT-7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/U--Net-20B2AA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attention%20Mechanisms-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-228B22?style=for-the-badge" />
+
+</div>
+
+### 💬 NLP & LLM Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Language%20Modeling-2E86C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tokenization-117A65?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-884EA0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Search-D35400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-DC143C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20RAG-8E44AD?style=for-the-badge" />
+
+</div>
+
+### 🧩 Vector Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+
+</div>
+
+### 🚀 MLOps & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi" />
+<br/><br/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+</div>
+
+### 📚 Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-2E4053?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+</div>
 
 ---
-
-### Machine Learning & Deep Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" />
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNNs-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNNs-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ViT-7B68EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/U--Net-20B2AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Attention%20Mechanisms-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-228B22?style=for-the-badge" />
-</p>
-
----
-
-### NLP & LLM Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Language%20Modeling-2E86C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tokenization-117A65?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-884EA0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-D35400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-DC143C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20RAG-8E44AD?style=for-the-badge" />
-</p>
-
----
-
-### Vector Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
-</p>
-
----
-
-### MLOps & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-2E4053?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
 
 ## 💼 Experience
 
-### NLP Engineer Intern — Dexef  
-**Oct 2024 – Apr 2025**
+<table>
+<tr>
+<td width="33%">
 
-- Built LLM-based applications using LangChain and RAG.
-- Designed semantic search pipelines with improved retrieval performance.
-- Fine-tuned Transformer models for better NLP performance.
+### 🧠 NLP Engineer Intern  
+**Dexef**  
+`Oct 2024 – Apr 2025`
 
-### AI Advanced Mentor — Instant  
-**Nov 2025 – Present**
+- Built LLM-based apps using LangChain/RAG.
+- Designed semantic search pipelines.
+- Fine-tuned Transformer models.
 
-- Mentoring learners in advanced AI and Machine Learning topics.
-- Guiding hands-on AI projects.
-- Supporting students in building real-world AI solutions.
+</td>
+<td width="33%">
 
-### AI Head — Developer Student Club  
-**Oct 2025 – Mar 2026**
+### 🎓 AI Advanced Mentor  
+**Instant**  
+`Nov 2025 – Present`
 
-- Led the AI team and mentored junior members.
-- Delivered AI and ML training sessions.
-- Organized workshops and supervised student projects.
+- Mentoring learners in advanced AI and ML.
+- Guiding hands-on projects.
+- Supporting real-world AI solutions.
+
+</td>
+<td width="33%">
+
+### 👨‍🏫 AI Head  
+**Developer Student Club**  
+`Oct 2025 – Mar 2026`
+
+- Led the AI team.
+- Delivered AI/ML training.
+- Organized workshops and projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured AI Projects
 
-### Arabic Medical GraphRAG
+<table>
+<tr>
+<td width="50%">
 
-An advanced Arabic medical RAG system combining **Knowledge Graphs** and **Vector Search** to reduce hallucinations and improve answer accuracy.
+### 🏥 Arabic Medical GraphRAG
 
-**Tech Used:**
+Advanced Arabic medical RAG system combining **Knowledge Graphs** and **Vector Search** to reduce hallucinations and improve answer accuracy.
 
-- Neo4j
-- Qdrant
-- FastAPI
-- Gemini
-- Cohere
-- Docker
+**Tech:** Neo4j · Qdrant · FastAPI · Gemini · Cohere · Docker
+
+**Highlights**
 - Hybrid Retrieval
 - Semantic Caching
+- Production-ready backend
+- Dockerized architecture
 
-**Highlights:**
+</td>
+<td width="50%">
 
-- Built a GraphRAG system for Arabic medical queries.
-- Combined knowledge graph retrieval with vector-based semantic search.
-- Reduced LLM latency and API costs using semantic caching.
-- Designed a Dockerized production-ready backend.
+### 🗄️ AI-Powered Database Chatbot
 
----
+AI chatbot that converts natural language questions into executable SQL queries for database insights.
 
-### AI-Powered Dynamic Database Chatbot
+**Tech:** OpenAI LLMs · SQL Server · pyodbc · Embeddings
 
-A freelance AI chatbot that converts natural language questions into executable SQL queries.
+**Highlights**
+- Natural language to SQL
+- Embedding-based schema search
+- Real-time SQL execution
+- Non-technical user access
 
-**Tech Used:**
+</td>
+</tr>
 
-- OpenAI LLMs
-- SQL Server
-- pyodbc
-- Embeddings
-- Semantic Schema Search
+<tr>
+<td width="50%">
 
-**Highlights:**
+### 📚 Hadith Books Search System using RAG
 
-- Converted user questions into SQL queries.
-- Mapped user intent to the most relevant database tables and fields.
-- Enabled non-technical users to access database insights easily.
+Intelligent semantic search system for Hadith books using Retrieval-Augmented Generation.
 
----
+**Tech:** Pinecone · Qwen · Embeddings · RAG
 
-### Hadith Books Search System using RAG
+**Highlights**
+- Semantic retrieval
+- LLM summaries
+- Data preparation and indexing
+- Querying and result summarization
 
-An intelligent semantic search system for Hadith books using Retrieval-Augmented Generation.
+</td>
+<td width="50%">
 
-**Tech Used:**
+### ⚖️ Legal AI Assistant
 
-- Pinecone
-- Qwen
-- Embeddings
-- RAG
-- LLM Summarization
+Arabic legal question-answering system over PDF documents across multiple legal domains.
 
-**Highlights:**
+**Tech:** PDF Parsing · OCR Fallback · Embeddings · Semantic Search · API
 
-- Indexed Hadith content for semantic retrieval.
-- Used Qwen to generate summaries and explanations.
-- Improved search quality using embedding-based retrieval.
+**Highlights**
+- Hybrid extraction pipeline
+- Grounded answers with references
+- Arabic legal document handling
+- OCR noise processing
 
----
-
-### Legal AI Assistant
-
-An Arabic legal question-answering system over PDF documents.
-
-**Tech Used:**
-
-- PDF Parsing
-- OCR Fallback
-- Embeddings
-- Semantic Search
-- RAG
-- API Development
-
-**Highlights:**
-
-- Built an Arabic legal QA system across multiple legal domains.
-- Added OCR fallback for scanned and non-searchable PDFs.
-- Returned grounded answers with supporting references.
-- Improved handling of noisy Arabic legal documents.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**  
-Faculty of Computer Science, El Shorouk Academy — Cairo, Egypt  
-**Oct 2022 – Jun 2026**
+<div align="center">
+
+### Bachelor of Computer Science  
+**Faculty of Computer Science, El Shorouk Academy — Cairo, Egypt**  
+`Oct 2022 – Jun 2026`
+
+</div>
 
 ---
 
 ## 📜 Certificates
 
-- AI Diploma — Instant
-- Large Language Models — Udemy
-- AI Agent Development — Udemy
-- Orange Digital Center — AI Bootcamp
-- HCIA AI Training — NTI
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Diploma-Instant-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Large%20Language%20Models-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agent%20Development-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Orange%20Digital%20Center-AI%20Bootcamp-FF7900?style=for-the-badge&logo=orange&logoColor=white" />
+<img src="https://img.shields.io/badge/HCIA%20AI%20Training-NTI-0F172A?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=e5e7eb" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=7c3aed&fire=f97316&currStreakLabel=38bdf8" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" />
+
+</div>
 
 ---
 
 ## 📫 Contact Me
 
-- Email: **anwrfryd8@gmail.com**
-- Location: **Cairo, Egypt**
-- LinkedIn: [Fareed Ali](https://www.linkedin.com/in/fareed-ali-a2457a287)
+<div align="center">
 
+<a href="mailto:anwrfryd8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anwrfryd8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fareed-ali-a2457a287">
+  <img src="https://img.shields.io/badge/LinkedIn-Fareed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<h3 align="center">
-Building intelligent systems that connect data, language, and real-world decisions.
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" />
+
+</div>
+'''
+
+path = Path('/mnt/data/README_impressive_ai_profile.md')
+path.write_text(readme, encoding='utf-8')
+path.as_posix()
